@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
-import 'package:infinite_scroll_app/containers/pictures_feed_container.dart';
 import 'package:infinite_scroll_app/presentations/app_root.dart';
 import 'package:infinite_scroll_app/reducers/reducers.dart';
 import 'package:infinite_scroll_app/sagas/fetch_pictures.dart';

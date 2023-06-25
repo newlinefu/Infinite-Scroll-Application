@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_redux/flutter_redux.dart';
-
-import '../../containers/picture_modal/picture_modal_content.dart';
-import '../../models/app_state.dart';
 import '../../models/picture.dart';
+import 'picture_modal_content.dart';
 
 class SinglePictureModalProperties {
   bool modalPictureLike;
