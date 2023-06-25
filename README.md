@@ -5,4 +5,4 @@
 ## О приложении
 
 О приложении
-[Demo](demo%2demo.mp4)
+[Demo](https://github.com/newlinefu/Infinite-Scroll-Application/blob/master/demo/demo.mp4)
